@@ -1,3 +1,5 @@
 nginx
 mysql
-docker-compose
+vulhub/shiro:1.2.4
+vulhub/shiro:1.0.0
+vulhub/shiro:1.5.1
