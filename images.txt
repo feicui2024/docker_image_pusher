@@ -3,4 +3,4 @@ mysql
 vulhub/shiro:1.2.4
 vulhub/shiro:1.0.0
 vulhub/shiro:1.5.1
-vulhub/skywalking
+vulhub/skywalking:8.3.0
