@@ -1,3 +1,2 @@
 nginx
 mysql
-vulhub/superset/CVE-2023-27524
