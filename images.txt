@@ -1,3 +1,4 @@
 nginx
 mysql
 vulhub/ingress-nginx:1.9.5
+ghcr.io/digininja/dvwa:latest
